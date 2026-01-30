@@ -18,6 +18,8 @@
         } \
     } while(0)
 
+
+    
 // 位反转函数
 __device__ unsigned int reverseBits(unsigned int num, int bits) {
     unsigned int result = 0;
